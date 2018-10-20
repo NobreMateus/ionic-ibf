@@ -1,3 +1,3 @@
 # ionic-ibf
 
-Aplicativo de gerenciamento de livros de uma biblioteca feito com Ionic.
+App to managing a books of a Church Library done with Ionic

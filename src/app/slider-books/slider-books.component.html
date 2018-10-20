@@ -1,0 +1,9 @@
+<div class="container">
+  <span class="section-title" >{{titleSection}}</span>
+  <div class="books-container">
+    <div>
+      {{book}}
+    </div>
+    <app-book *ngFor="let book of books" [title]="book" ></app-book> 
+  </div>
+</div>
